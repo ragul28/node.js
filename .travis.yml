@@ -6,7 +6,7 @@ node_js:
   - 0.8
 
 # configure notifications (email, IRC, campfire etc)
-# please update this section to your needs!
+# please update this section to your needs!a
 notifications:
   irc: "irc.freenode.org#travis"
 
